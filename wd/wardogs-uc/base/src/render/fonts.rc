@@ -1,0 +1,4 @@
+#include "fonts_resource.h"
+
+IDR_FONT_FORTNITE     RCDATA  "..\\..\\..\\fonts\\fortnite.otf"
+IDR_FONT_BURBANK      RCDATA  "..\\..\\..\\fonts\\Burbank Big Condensed Black.otf"
